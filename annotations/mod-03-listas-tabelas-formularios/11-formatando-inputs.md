@@ -25,7 +25,7 @@ input[type='number'] {
 }
 ~~~
 
-A propriedade css outline altera aquele efeito de quando clicamos em um input.
+A propriedade css **outline** altera aquele efeito de quando clicamos em um input.
 Caso queiramos que não apareça sett o valor como zero
 
 Para o text area podemos definir uma propriedade css **_resize_** como none para

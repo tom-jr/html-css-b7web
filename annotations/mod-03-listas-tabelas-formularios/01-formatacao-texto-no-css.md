@@ -12,7 +12,7 @@ p {
 ~~~
 
 3. font-weight: bold. Define o nível de negrito.
-4. text-align: left|justify|right. alinhamento do texto referente a um content
+4. text-align: left|center|right. alinhamento do texto referente a um content
 5. text-decorator: underline. Diz por sim propriedade para decorar o texto, neste caso esta deixando-o com underline
 6. text-transformer: uppercase|lowercase. transformação.
 7. letter-spacing: (n)px. espaçamento entre letras
