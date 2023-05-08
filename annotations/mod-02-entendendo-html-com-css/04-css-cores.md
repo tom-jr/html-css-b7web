@@ -26,3 +26,12 @@ h1 {
     background-color: #FF0000;
 }
 ~~~
+
+- **hsl(n%, n%, n%)** define como o rgb, mas em vez de números literais usamos valores de porcentagem
+~~~ css
+h1 {
+    color: hls(100%, 0%, 0%);
+}
+~~~
+
+- **currentColor**: pega o ultimo valor de color aplicado no próprio elemento ou no pai e usa onde definirmos
