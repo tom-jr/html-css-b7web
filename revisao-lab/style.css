@@ -1,0 +1,31 @@
+body {
+    background-color: red;
+}
+
+@media (min-width:770px) {
+
+    body {
+        background-color: yellow;
+    }
+}
+
+@media (min-width:425px) and (max-width:769px) {
+
+    body {
+        background-color: blueviolet;
+    }
+}
+
+@media only print {
+    body {
+        font-size: 100px;
+        color: brown;
+        background-color: black;
+    }
+}
+
+@media only screen {
+    div {
+        display: none;
+    }
+}
